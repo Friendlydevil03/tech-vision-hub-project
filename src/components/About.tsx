@@ -4,7 +4,7 @@ import { Code, Brain, Shield, Globe } from 'lucide-react';
 
 const About = () => {
   const interests = [
-    { icon: Code, title: 'Web Development', description: 'Full-stack applications' },
+    { icon: Code, title: 'DevOpos', description: 'Automation' },
     { icon: Brain, title: 'AI/ML', description: 'Machine learning solutions' },
     { icon: Shield, title: 'Cybersecurity', description: 'Secure applications' },
     { icon: Globe, title: 'Cloud Computing', description: 'Scalable infrastructure' }
